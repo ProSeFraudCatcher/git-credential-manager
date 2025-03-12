@@ -1,3 +1,18 @@
 [submodule "ProSeFraudCatcher"]
 	path = ProSeFraudCatcher
 	url = git@github.com:Pro-Se-Fraud-Hunters/ProSeFraudCatcher.git
+[submodule "src/shared/Core/Authentication/OAuth/sean.henry007@gmail.com"]
+	path = src/shared/Core/Authentication/OAuth/sean.henry007@gmail.com
+	url = https://ProSeFraudCatcher@github.com/
+[submodule "src/shared/Core/Authentication/OAuth/cyberfraudbountyhunters@outlook.com"]
+	path = src/shared/Core/Authentication/OAuth/cyberfraudbountyhunters@outlook.com
+	url = https://ProSeFraudCatcher@github.com/
+[submodule "src/shared/Core/Authentication/OAuth/cyberfraudbountyhunters@gmail.com"]
+	path = src/shared/Core/Authentication/OAuth/cyberfraudbountyhunters@gmail.com
+	url = https://ProSeFraudCatcher@github.com/
+[submodule ".github/ISSUE_TEMPLATE/ProSeFraudCatcher"]
+	path = .github/ISSUE_TEMPLATE/ProSeFraudCatcher
+	url = https://ProSeFraudCatcher@github.com/
+[submodule "src/windows/Installer.Windows/SeanHenry"]
+	path = src/windows/Installer.Windows/SeanHenry
+	url = https://ProSeFraudCatcher@github.com/
